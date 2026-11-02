@@ -1,0 +1,8 @@
+{
+  "name": "Fatih 1557–1560: Kanuni Dönemi Tarihî Yarımada 3B",
+  "description": "Kanuni Sultan Süleyman döneminde (yaklaşık 1557–1560) İstanbul Tarihî Yarımada'nın (Fatih) etkileşimli, prosedürel 3B modeli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
